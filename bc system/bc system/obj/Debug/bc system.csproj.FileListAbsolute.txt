@@ -1,0 +1,39 @@
+C:\Users\BAHROZ-JAVED\Documents\Visual Studio 2015\Projects\bc system\bc system\bin\Debug\bc system.exe.config
+C:\Users\BAHROZ-JAVED\Documents\Visual Studio 2015\Projects\bc system\bc system\bin\Debug\bc system.exe
+C:\Users\BAHROZ-JAVED\Documents\Visual Studio 2015\Projects\bc system\bc system\bin\Debug\bc system.pdb
+C:\Users\BAHROZ-JAVED\Documents\Visual Studio 2015\Projects\bc system\bc system\obj\Debug\bc system.csprojResolveAssemblyReference.cache
+C:\Users\BAHROZ-JAVED\Documents\Visual Studio 2015\Projects\bc system\bc system\obj\Debug\bc_system.login.resources
+C:\Users\BAHROZ-JAVED\Documents\Visual Studio 2015\Projects\bc system\bc system\obj\Debug\bc_system.Properties.Resources.resources
+C:\Users\BAHROZ-JAVED\Documents\Visual Studio 2015\Projects\bc system\bc system\obj\Debug\bc system.csproj.GenerateResource.Cache
+C:\Users\BAHROZ-JAVED\Documents\Visual Studio 2015\Projects\bc system\bc system\obj\Debug\bc system.exe
+C:\Users\BAHROZ-JAVED\Documents\Visual Studio 2015\Projects\bc system\bc system\obj\Debug\bc system.pdb
+E:\project dbms\bc system\bc system\bin\Debug\bc system.exe.config
+E:\project dbms\bc system\bc system\obj\Debug\bc system.exe
+E:\project dbms\bc system\bc system\obj\Debug\bc system.pdb
+E:\project dbms\bc system\bc system\bin\Debug\bc system.exe
+E:\project dbms\bc system\bc system\bin\Debug\bc system.pdb
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.Properties.Resources.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc system.csproj.GenerateResource.Cache
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.signup.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.Login_admin.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.Admin_panel.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.login.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.forgetpassword.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.updatepassword.resources
+E:\project dbms\bc system\bc system\bin\Debug\bc system.exe.manifest
+E:\project dbms\bc system\bc system\bin\Debug\bc system.application
+E:\project dbms\bc system\bc system\obj\Debug\bc system.exe.manifest
+E:\project dbms\bc system\bc system\obj\Debug\bc system.application
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.User_Panel.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.FirstUserControl1.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.requestusercontrol.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.RequestControl.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.viewStatus.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.Paybc.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.Paystatus.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.AddBc.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.result.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.AcceptRequest.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.viewpayment.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc_system.adminresult.resources
+E:\project dbms\bc system\bc system\obj\Debug\bc system.csprojResolveAssemblyReference.cache
